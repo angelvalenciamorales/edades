@@ -1,0 +1,11 @@
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\bin\Debug\edadesForm.exe.config
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\bin\Debug\edadesForm.exe
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\bin\Debug\edadesForm.pdb
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.csproj.AssemblyReference.cache
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.Form1.resources
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.Properties.Resources.resources
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.csproj.GenerateResource.cache
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.csproj.CoreCompileInputs.cache
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.exe
+C:\Users\Angel Valencia\Downloads\proyrcto\edadesForm\edadesForm\obj\Debug\edadesForm.pdb
